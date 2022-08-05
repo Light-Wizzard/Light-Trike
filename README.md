@@ -95,4 +95,4 @@ Most Trikes you will find on [YouTube](https://www.youtube.com/results?search_qu
 
 [https://www.youtube.com/watch?v=j9IMUWLsgiM](https://www.youtube.com/watch?v=j9IMUWLsgiM)
 
-![]()
+![BeTriton](https://github.com/Light-Wizzard/Light-Trike/blob/main/images/BeTriton.png)
