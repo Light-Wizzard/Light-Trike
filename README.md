@@ -90,3 +90,9 @@ Music and video is built-in, it is designed to allow the rider to talk as they r
 All-weather off-road tires, with a 50-mile Emergency Electric Motor range, depending on battery weight, and you can use the Motor full time if you want, it is not only for Emergencies, but there in case of one, but is not an Electric Motor Vehicle in itself, because this one is designed to go slow, and designed to get you up hills, it has the gear ratio of the Trike, so you can switch gears, and go fast, but you give up distance, and all those hills add up, so I have to design a way to disconnect the drive and just power the generator.
 
 Most Trikes you will find on [YouTube](https://www.youtube.com/results?search_query=Trike), that you have many different types, and I am only talking about one that is a hybrid, and does not exist as it is, so you will not find what I described to you here, so you will not find what I am building, and one thing I must point out, is that those that are there, are all designed for healthy people, and this is not, and why it cannot be compared to the others, it is designed for people of all ages and healthy people will enjoy it more, but is designed for people with health issues that must be monitored, and recorded, so I have a camera system, you can combine them all on one screen, and record them with all your health data, making a video you can give to any doctor who can review it, and determine if you have a health risk doing this, or if it is helping you get better, as such, I see this being deployed to health care systems, as an alternate way of getting exercise, as such, this unit is designed to monitor you as you monitor your surroundings.
+
+## Buy Trikes
+
+[https://www.youtube.com/watch?v=j9IMUWLsgiM](https://www.youtube.com/watch?v=j9IMUWLsgiM)
+
+![]()
